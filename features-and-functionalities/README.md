@@ -148,6 +148,8 @@ The backend of the Airbnb Clone is responsible for server-side logic, database m
 ---
 
 ## 📁 Features Diagram
- 
+<p align="center">
+  <img src="./Features_and_Functionality_Diagram.jpg" width='100%' alt="features and functionality" />
+</p> 
 
 *This document serves as a comprehensive guide for the backend development of the Airbnb Clone project.
