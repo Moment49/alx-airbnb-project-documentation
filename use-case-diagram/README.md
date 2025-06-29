@@ -1,7 +1,3 @@
-Here’s a **detailed and professional README** tailored for the **Use Case Diagram** of the **ALX Airbnb Clone Project**, written in the tone and structure a senior backend engineer might use:
-
----
-
 # 📘 Use Case Diagram – ALX Airbnb Clone Project
 
 ## 🧾 Overview
